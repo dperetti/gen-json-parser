@@ -4,7 +4,7 @@
   "description": "Generate JSON parsers for custom data structures.",
   "main": "index.js",
   "dependencies": {
-    "parsimmon": "0.5.1"
+    "parsimmon": "1.7.1"
   },
   "devDependencies": {
     "test": "*",
